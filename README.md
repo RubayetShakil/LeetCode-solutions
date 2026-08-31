@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RubayetShakil/LeetCode-solutions/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/RubayetShakil/LeetCode-solutions/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/RubayetShakil/LeetCode-solutions/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
