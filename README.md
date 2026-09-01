@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RubayetShakil/LeetCode-solutions/tree/master/0001-two-sum) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/RubayetShakil/LeetCode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
