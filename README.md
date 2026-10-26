@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RubayetShakil/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/RubayetShakil/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/RubayetShakil/LeetCode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RubayetShakil/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/RubayetShakil/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RubayetShakil/LeetCode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/RubayetShakil/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
